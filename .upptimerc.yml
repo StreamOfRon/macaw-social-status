@@ -3,8 +3,13 @@ owner: StreamOfRon # Your GitHub organization or username, where this repository
 repo: macaw-social-status # The name of this repository
 
 sites:
-  - name: Macaw-Social
+  - name: Macaw-Social Homepage
     url: https://macaw.social
+  - name: Macaw-Social Static Object
+    url: https://macaw.social/emoji/1f346.svg
+  - name: Macaw-Social CDN Object
+    url: https://macawsocial.sfo3.cdn.digitaloceanspaces.com/accounts/avatars/109/275/542/085/388/685/original/a655926f7c4a560a.png
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
