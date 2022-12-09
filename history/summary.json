@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/macaw.social.ico",
     "slug": "macaw-social-homepage",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1779,
-    "timeDay": 489,
-    "timeWeek": 518,
-    "timeMonth": 1779,
-    "timeYear": 1779,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1732,
+    "timeDay": 716,
+    "timeWeek": 541,
+    "timeMonth": 1732,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2022-11-28": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 48,
-    "timeWeek": 26,
-    "timeMonth": 36,
-    "timeYear": 36,
+    "time": 37,
+    "timeDay": 64,
+    "timeWeek": 33,
+    "timeMonth": 37,
+    "timeYear": 37,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 457,
-    "timeWeek": 156,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 134,
+    "timeDay": 196,
+    "timeWeek": 171,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   }
 ]
