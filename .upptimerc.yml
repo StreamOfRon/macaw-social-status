@@ -20,11 +20,17 @@ status-website:
   name: Macaw-Social Status
   introTitle: Historical status and open issues for Macaw-Social
   introMessage: ""
+  theme: dark
   navbar:
+    - title: Macaw-Social
+      href: https://macaw.social
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - StreamOfRon
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
