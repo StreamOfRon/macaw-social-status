@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 423,
-    "timeDay": 237,
-    "timeWeek": 265,
-    "timeMonth": 330,
+    "timeDay": 309,
+    "timeWeek": 280,
+    "timeMonth": 314,
     "timeYear": 424,
-    "dailyMinutesDown": {
-      "2022-11-28": 60
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Macaw-Social Static Object",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 18,
-    "timeDay": 13,
+    "timeDay": 11,
     "timeWeek": 23,
     "timeMonth": 22,
     "timeYear": 17,
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 105,
+    "timeDay": 34,
     "timeWeek": 65,
-    "timeMonth": 100,
+    "timeMonth": 98,
     "timeYear": 101,
     "dailyMinutesDown": {}
   }
