@@ -6,18 +6,16 @@
     "slug": "macaw-social-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 528,
-    "timeWeek": 312,
-    "timeMonth": 297,
+    "time": 412,
+    "timeDay": 570,
+    "timeWeek": 341,
+    "timeMonth": 311,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2024-01-05": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Macaw-Social Static Object",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 55,
+    "timeDay": 86,
     "timeWeek": 76,
-    "timeMonth": 62,
+    "timeMonth": 64,
     "timeYear": 94,
     "dailyMinutesDown": {}
   }
