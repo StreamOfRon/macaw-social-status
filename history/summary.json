@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/macawsocial.sfo3.cdn.digitaloceanspaces.com.ico",
     "slug": "macaw-social-cdn-object",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 76,
     "timeDay": 0,
     "timeWeek": 88,
     "timeMonth": 79,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2024-11-28": 0
+      "2024-11-29": 55,
+      "2024-11-28": 45
     }
   }
 ]
