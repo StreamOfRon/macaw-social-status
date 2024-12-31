@@ -4,7 +4,7 @@
     "url": "https://macaw.social",
     "icon": "https://icons.duckduckgo.com/ip3/macaw.social.ico",
     "slug": "macaw-social-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 500,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2024-12-31": 0,
       "2024-10-18": 70,
       "2024-10-17": 2,
       "2024-09-15": 161,
