@@ -1,7 +1,7 @@
 url: https://macaw.social
-status: up
-code: 200
-responseTime: 133
-lastUpdated: 2025-01-04T20:51:34.259Z
+status: down
+code: 503
+responseTime: 384
+lastUpdated: 2025-01-04T23:13:54.307Z
 startTime: 2022-11-20T02:11:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
