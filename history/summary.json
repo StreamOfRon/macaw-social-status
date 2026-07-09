@@ -4,17 +4,17 @@
     "url": "https://macaw.social",
     "icon": "https://icons.duckduckgo.com/ip3/macaw.social.ico",
     "slug": "macaw-social-homepage",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "87.76%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.82%",
     "time": 810,
-    "timeDay": 10194,
-    "timeWeek": 2438,
-    "timeMonth": 1112,
-    "timeYear": 774,
+    "timeDay": 6928,
+    "timeWeek": 2252,
+    "timeMonth": 1091,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2025-09-04": 29,
       "2025-09-26": 59,
@@ -27,7 +27,7 @@
       "2026-04-10": 58,
       "2026-05-05": 33,
       "2026-07-03": 196,
-      "2026-07-09": 0
+      "2026-07-09": 176
     }
   },
   {
